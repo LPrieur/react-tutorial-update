@@ -1,0 +1,10 @@
+import React from 'react';
+
+const About = () => {
+  return (
+    <div className="about__content">
+      <ul className="about__list">Page about</ul>
+    </div>
+  )
+}
+export default About
